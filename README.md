@@ -25,4 +25,4 @@ La segmentation sémantique est un algorithme de Deep Learning qui associe une �
 # 2. Segmentation d'instance:
 sans doute le sens le plus difficile, le plus pertinent et le plus original de la Segmentation D'un objet," segmentation d'instance " signifie la segmentation des objets individuels à l'intérieur d'une scène, qu'ils soient du même type ou non.
 
-## Pour ce projet l'utilisation sémantique est nécessaire car il s'agit d'imagerie médicale.
+## Pour ce projet l'utilisation  de la segmentation sémantique est nécessaire car il s'agit d'imagerie médicale.
