@@ -14,14 +14,15 @@ La segmentation d'image donne des informations plus granulaires sur la forme d'u
 
 Nous segmentons, c'est-à-dire divisons les images en régions de couleurs différentes, ce qui aide à distinguer un objet de l'autre à un niveau plus fin.
 
-##Types de segmentation d'image
+## Types de segmentation d'image
 La segmentation d'image peut être globalement classée en deux types:
 
 
-#1. Segmentation sémantique :
+# 1. Segmentation sémantique :
 La segmentation sémantique est un algorithme de Deep Learning qui associe une étiquette ou une catégorie à chaque pixel d'une image. ... La segmentation sémantique intervient dans de nombreuses applications telles que la conduite autonome, l'imagerie médicale et les contrôles industriels.
 
 
-#2. Segmentation d'instance:
+# 2. Segmentation d'instance:
 sans doute le sens le plus difficile, le plus pertinent et le plus original de la Segmentation D'un objet," segmentation d'instance " signifie la segmentation des objets individuels à l'intérieur d'une scène, qu'ils soient du même type ou non.
 
+## Pour ce projet l'utilisation sémantique est nécessaire car il s'agit d'imagerie médicale.
