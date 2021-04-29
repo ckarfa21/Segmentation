@@ -28,5 +28,5 @@ sans doute le sens le plus difficile, le plus pertinent et le plus original de l
 
 ## Pour ce projet l'utilisation  de la segmentation sémantique est nécessaire car il s'agit d'imagerie médicale.
 exp:
-![image](https://www.quantmetry.com/blog/deep-learning-diagnostic-imagerie-medicale/)
+![lien utile](https://www.quantmetry.com/blog/deep-learning-diagnostic-imagerie-medicale/)
 
