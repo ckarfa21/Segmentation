@@ -13,6 +13,7 @@ Vous auriez probablement entendu parler de la détection d'objets et de la local
 La segmentation d'image donne des informations plus granulaires sur la forme d'une image et donc une extension du concept de détection d'objet.
 
 Nous segmentons, c'est-à-dire divisons les images en régions de couleurs différentes, ce qui aide à distinguer un objet de l'autre à un niveau plus fin.
+La segmentation  d'image  est essentiellement le processus de partitionnement d'un Image digitale en plusieurs segments pour simplifier et / ou changer la représentation d'une image en quelque chose de plus significatif et plus facile à analyser.
 
 ## Types de segmentation d'image
 La segmentation d'image peut être globalement classée en deux types:
