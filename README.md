@@ -1,4 +1,5 @@
 ## Segmentation
+L’IA permet de simplifier et d’accélérer le travail des équipes d’imagerie, aujourd’hui majoritairement sur les étapes précliniques, en facilitant la lecture des images. Le CHRU a donc besoin d'un outil IA pour segmenter un tel type d'images. Il vous demande de l'aide pour cet objectif.
 
 Segmentation d'image avec l'apprentissage automatique
 Travailler sur un projet d'apprentissage automatique de niveau intermédiaire - Segmentation d'image
